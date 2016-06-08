@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:48:42.499500
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:11
 #+TITLE: 觀音經普門品重頌
 #+PROPERTY: CBETA_ID X35n0646
 #+PROPERTY: ID KR6d0056
