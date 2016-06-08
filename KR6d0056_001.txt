@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:48:42.499500
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:11
 #+TITLE: 觀音經普門品重頌
 #+PROPERTY: CBETA_ID X35n0646
 #+PROPERTY: ID KR6d0056
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 35, No. 646
 #+PROPERTY: VOL 35
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0056_X_001-0163c> 
 #+PROPERTY: JUAN 1
-No.646¶
-
- 釋普門品重頌¶
+No. 646¶
+釋普門品重頌¶
 宋天竺寺沙門　遵式　述¶
 
 【△第二重頌是隋煬大業中智者滅後笈多所譯¶
@@ -240,7 +239,7 @@ No.646¶
 水火難稀鬼虎事寡運衰方值諍訟事眾世之諍
 <pb:KR6d0056_X_001-0166a>¶
 本財色田宅日用有之勸持則要也刀杖幽執有¶
-過方遭軍陣王役事非由己又捔力相持自刃森¶
+過方遭軍陣王役事非由巳又捔力相持自刃森¶
 目刀杖案籍賖死之難賊奪有財非如師旅斯亦¶
 勸之要也。¶
 
